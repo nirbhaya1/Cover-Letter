@@ -4,10 +4,9 @@
 Address : 79 5th Main Road,Domlur,  
 Bangalore, Pin:560071  
 Mail Id : nima20mca@cmrit.ac.in  
-Mobile: 9717658533  
--------
-To *Ontum Education,    
-Bangalore*    
+Mobile: 9717658533
+-----------
+#### To Ontum Education,Bangalore
 
 Dear Sir/Madam,
 
